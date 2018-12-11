@@ -45,7 +45,7 @@ public class TestCalculoAreas {
 				area3 = base*altura;
 				System.out.println("el área del rectángulo es: " + area3);
 			}
-		}System.out.println("salida");
+		}System.out.println(" error de datos, salida");
 			
 		
 		
